@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # About Me 🚀  <br><br>👋 Hi, I'm Jessie! I'm passionate about **DevOps, Cloud Engineering, and Automation**. Currently, I'm building scalable backend architectures and working on cloud-native technologies.  <br>  <br><br>- 🤝 **I’m looking to collaborate on:**  <br>  Cloud automation, Kubernetes deployments, CI/CD pipelines, and DevOps projects.  <br><br>- 📚 **I’m currently learning:**  <br>  - Advanced Kubernetes networking and security.  <br>  - Terraform for AWS infrastructure automation.  <br>  - ArgoCD for GitOps-based CI/CD pipelines.  <br><br>- 💬 **Ask me about:**  <br>  - Cloud Engineering & DevOps  <br>  - Automating CI/CD pipelines  <br>  - Infrastructure as Code (IaC) with Terraform  <br>  - Microsoft Power Apps  <br><br>- 🎉 **Fun fact:**  <br>  I started my career as a Virtual Assistant before transitioning into DevOps and Cloud Engineering!  <br><br>### 🚀 Let's Connect  <br>📩 jessieokolocha@gmail.com<br><br>
 
 
